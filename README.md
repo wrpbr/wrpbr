@@ -23,5 +23,9 @@ I run [WRP Consultoria](https://wendelmaques.com) in Brasília, Brazil. 12+ year
 
 Most of these come with an API and an MCP server.
 
+### For your GitHub workflows
+- [HookPulse check-in](https://github.com/marketplace/actions/hookpulse-check-in): one step that alerts you when a scheduled workflow stops running or fails. No secret. To watch every scheduled workflow with no YAML, install the [HookPulse app](https://github.com/apps/hookpulse-actions-monitor).
+- [PageAudit preview check](https://github.com/marketplace/actions/pageaudit-preview-check): audits a deploy preview against production and shows only the SEO issues that got worse. The [PageAudit app](https://github.com/apps/pageaudit-seo-check) adds this check to each deployment.
+
 ### Contact
 🌐 [wendelmaques.com](https://wendelmaques.com) · ✉️ eu@wendelmaques.com · 💬 [WhatsApp](https://wa.me/5561991657397)
