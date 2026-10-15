@@ -28,4 +28,4 @@ Most of these come with an API and an MCP server.
 - [PageAudit preview check](https://github.com/marketplace/actions/pageaudit-preview-check): audits a deploy preview against production and shows only the SEO issues that got worse. The [PageAudit app](https://github.com/apps/pageaudit-seo-check) adds this check to each deployment.
 
 ### Contact
-🌐 [wendelmaques.com](https://wendelmaques.com) · ✉️ eu@wendelmaques.com · 💬 [WhatsApp](https://wa.me/5561991657397)
+🌐 [wendelmaques.com](https://wendelmaques.com) · ✉️ eu@wendelmaques.com · 💬 [WhatsApp](https://wa.me/5561994098354)
